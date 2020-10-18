@@ -4,7 +4,7 @@ Programmer, frontend/fullstack developer, designer.
 Last few years have been specializing mainly in JavaScript programming.
 Now working for Moscow-based IT company (see «[Projects](https://lilliputten.github.io/#/Projects)» section on my gitpages site), but still slowly consider interesting proposals.
 
-## Find me around the universal noosphere:
+## Meet me on the Internet:
 
 - [Gitpages](https://lilliputten.github.io/#/About)
 - [Github](https://github.com/lilliputten)
@@ -14,6 +14,8 @@ Now working for Moscow-based IT company (see «[Projects](https://lilliputten.gi
 - [Headhunter.ru CV (Russian)](https://hh.ru/resume/d311fd1dff025511070039ed1f3946696f6451)
 
 <!--
+
+@changed: 2020.10.18, 21:52
 
 Image size: 1581x515
 
