@@ -1,10 +1,10 @@
 ### Hi, I'm Igor a.k.a. Lilliputten
 
-Programmer, frontend developer, designer. Last few years have been specializing mainly in JavaScript programming. Now working for Moscow-based IT company (see «Projects» section), but still slowly consider interesting proposals.
+Programmer, frontend/fullstack developer, designer. Last few years have been specializing mainly in JavaScript programming. Now working for Moscow-based IT company (see «Projects» section), but still slowly consider interesting proposals.
 
 ## Find me around the universal noosphere:
 
-- [Gitpages brief](https://lilliputten.github.io/#/About)
+- [Gitpages](https://lilliputten.github.io/#/About)
 - [Github](https://github.com/lilliputten)
 - [Linkedin](https://linkedin.com/in/lilliputten)
 - [Facebook](https://facebook.com/igor.lilliputten)
