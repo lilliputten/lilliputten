@@ -1,4 +1,4 @@
-### Hi, I'm Igor a.k.a. Lilliputten
+# Hi, I'm Igor a.k.a. Lilliputten
 
 Programmer, frontend/fullstack developer, designer.
 Last few years have been specializing mainly in JavaScript programming.
