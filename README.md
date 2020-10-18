@@ -17,13 +17,10 @@ Now working for Moscow-based IT company (see «[Projects](https://lilliputten.gi
 
 @changed 2020.10.18, 21:55
 
-Image size: 1581x515
-
-Image code:
+Banner Image code (sample size: 1581x515):
 ```
 <img src="https://raw.githubusercontent.com/lilliputten/lilliputten/master/gh-header-image-cropped.png" alt="banner that says Lilliputten - frontend/fulstack developer">
 ```
-
 
 **lilliputten/lilliputten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,4 +34,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
