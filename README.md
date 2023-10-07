@@ -1,6 +1,6 @@
 # Hi, I'm Igor a.k.a. Lilliputten
 
-Programmer, frontend/fullstack developer, designer.
+I'm a programmer, frontend/fullstack developer, designer.
 The last few years have been specializing mainly in JavaScript programming.
 Now I live in Thailand and I work for my clients in different countries (see «[Projects](https://lilliputten.github.io/#/Projects)» section on my gitpages site), but still slowly considering interesting offers.
 
