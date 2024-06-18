@@ -1,26 +1,21 @@
 # Hi, I'm Igor a.k.a. Lilliputten
 
-I'm a programmer, frontend/fullstack developer, designer.
-The last few years have been specializing mainly in JavaScript programming.
-Now I live in Thailand and I work for my clients in different countries (see «[Projects](https://lilliputten.github.io/#/Projects)» section on my gitpages site), but still slowly considering interesting offers.
+I'm a professional front-end (and full-stack) web developer. Having about 8 years of experience in web frontend development, I mainly specialize in JavaScript (with React.js for frontend), Python and related technologies.
+
+Now I live in Uzbekistan and work for my clients in different countries (see «[Projects](https://lilliputten.com/projects)» section on my site), and still slowly considering interesting offers.
 
 ## Meet me on the Internet:
 
+- [lilliputten.com](https://lilliputten.com)
 - [Gitpages](https://lilliputten.github.io/#/About)
 - [Github](https://github.com/lilliputten)
 - [Linkedin](https://linkedin.com/in/lilliputten)
 - [Facebook](https://facebook.com/igor.lilliputten)
 - [Telegram](https://t.me/lilliputten)
-- [Headhunter.ru CV (Russian)](https://hh.ru/resume/d311fd1dff025511070039ed1f3946696f6451)
 
 <!--
 
-@changed 2020.10.18, 21:55
-
-Banner Image code (sample size: 1581x515):
-```
-<img src="https://raw.githubusercontent.com/lilliputten/lilliputten/master/gh-header-image-cropped.png" alt="banner that says Lilliputten - frontend/fulstack developer">
-```
+@changed 2024.06.18, 16:43
 
 **lilliputten/lilliputten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
