@@ -1,6 +1,6 @@
-# Hi, I'm Igor a.k.a. Lilliputten
+# Hi, my name is Igor, but some people know me as lilliputten
 
-I'm a professional front-end (and full-stack) web developer. Having about 8 years of experience in web frontend development, I mainly specialize in JavaScript (with React.js for frontend), Python and related technologies.
+I'm a developer with 8+ years of experience, specializing mainly in JS/TypeScript (React, NextJS, NodeJS), and Python (Flask and Django), and recently I've started to develop Flutter mobile applications and Telegram bots. My background includes creating various types of web applications and sites, from complex dynamic web applications (sometimes with a backend) to static landing pages, developing applications for embedded browsers (below ES5) and vanilla JS, creating UI kits, reusable libraries, and optimizing performance across a variety of devices and browsers.
 
 At the moment I work for my clients in different countries (see «[Projects](https://lilliputten.com/projects)» section on my site), and still considering interesting offers.
 
