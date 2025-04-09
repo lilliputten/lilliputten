@@ -2,7 +2,7 @@
 
 I'm a professional front-end (and full-stack) web developer. Having about 8 years of experience in web frontend development, I mainly specialize in JavaScript (with React.js for frontend), Python and related technologies.
 
-Now I live in Uzbekistan and work for my clients in different countries (see «[Projects](https://lilliputten.com/projects)» section on my site), and still slowly considering interesting offers.
+At the moment I work for my clients in different countries (see «[Projects](https://lilliputten.com/projects)» section on my site), and still considering interesting offers.
 
 ## Meet me on the Internet:
 
